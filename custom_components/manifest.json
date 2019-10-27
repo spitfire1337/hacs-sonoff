@@ -1,0 +1,11 @@
+{
+    "domain": "Sonoff",
+    "name": "Integration for default sonoff devices",
+    "documentation": "https://custom-components.github.io/badnest",
+    "dependencies": [],
+    "codeowners": [
+      "@USA-RedDragon"
+    ],
+    "homeassistant": "0.97.0",
+    "requirements": []
+  }
